@@ -1,0 +1,8 @@
+
+.custom-focus {
+    outline: none  !important;
+    box-shadow: none !important;
+    border: none !important;
+    border-bottom: 1px solid #FFF !important;
+    border-radius: 0 !important;
+  }
